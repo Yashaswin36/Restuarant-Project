@@ -1,0 +1,10 @@
+{
+    "name": "college-suite/restaurant-table-reservation-ordering",
+    "description": "TableFare — QR-driven dine-in table reservation and ordering system",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "phpmailer/phpmailer": "^6.9",
+        "chillerlan/php-qrcode": "^5.0"
+    }
+}
